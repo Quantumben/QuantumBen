@@ -9,6 +9,7 @@ I'm a passionate software engineer with a strong foundation in web development a
 - PHP(Laravel,InertiaJs)
 - JavaScript (Node.js/Express.js/JQuery/AJAX)
 - WordPress Development (Theme & Plugin)
+- Shopify Design and Development
 - Python
 - VueJs/Nestjs
 - C# Programming
