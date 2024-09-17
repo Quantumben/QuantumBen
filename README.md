@@ -1,7 +1,7 @@
 
 # Hey There, I'm Benedict Goodluck
 
-I'm a passionate software engineer with a strong foundation in web development and a burning desire to excel in the field. Currently, I'm Scientist turned software developer harnessing the power of code to understand and utilize the intricacies of the cosmos and electron behavior.
+I'm a passionate software engineer with a strong foundation in web development and a burning desire to excel in the field. I'm Scientist turned software developer harnessing the power of code to understand and utilize the intricacies of the cosmos and electron behavior.
 
 ## Skills
 
