@@ -1,9 +1,23 @@
 
-# Hey There, I'm Benedict Goodluck
+# Hey {{There}}, I'm Benedict Goodluck
 
-I'm a passionate software engineer with a strong foundation in web development and a burning desire to excel in the field. I'm Scientist turned software developer harnessing the power of code to understand and utilize the intricacies of the cosmos and electron behavior.
+A skilled backend developer specializing in PHP and Laravel. With a strong foundation in building robust and scalable web applications, I excel in creating efficient APIs, optimizing database queries, and developing feature-rich backend solutions tailored to user needs. 
+My focus is always on delivering clean, maintainable code that meets business goals.
 
-## Skills
+## I have experience in:
+
+- Designing and implementing RESTful APIs and microservices.
+- Developing custom authentication systems and password management solutions beyond any language default features.
+- Integrating third-party services and enhancing existing systems with advanced functionalities.
+- Collaborating with teams to deliver high-quality products while adhering to deadlines.
+
+I thrive in remote roles, leveraging tools like Git, Slack, and project management platforms to stay connected and productive. 
+
+With a proactive approach to problem-solving and a passion for continuous learning, I’m confident in contributing value to your development team.
+
+I look forward to the opportunity to discuss how I can help enhance your backend systems or support ongoing projects.
+
+## My Skills
 
 ### Programming Languages and Frameworks
 - PHP(Laravel,InertiaJs)
