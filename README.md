@@ -1,8 +1,9 @@
 
 # Hey {{There}}, I'm Benedict Goodluck
 
-A skilled backend developer specializing in PHP and Laravel. With a strong foundation in building robust and scalable web applications, I excel in creating efficient APIs, optimizing database queries, and developing feature-rich backend solutions tailored to user needs. 
-My focus is always on delivering clean, maintainable code that meets business goals.
+A highly skilled Software Engineer with expertise across Web, AI, Mobile, Console, Desktop, and IoT software development. I have a proven track record of designing and implementing robust, scalable, and high-performance applications.
+My strengths include developing efficient APIs, optimizing database performance, and delivering feature-rich backend solutions aligned with user and business needs.
+Committed to engineering excellence, I consistently write clean, maintainable, and well-documented code that drives innovation and supports long-term growth.
 
 ## I have experience in:
 
@@ -22,9 +23,9 @@ I look forward to the opportunity to discuss how I can help enhance your backend
 ### Programming Languages and Frameworks
 - PHP(Laravel,InertiaJs)
 - JavaScript (Node.js/Express.js/JQuery/AJAX)
+- Python (Django/FastAPI)
 - WordPress Development (Theme & Plugin)
 - Shopify Design and Development
-- Python
 - VueJs/Nestjs
 - C# Programming
 - DotNet
@@ -38,6 +39,9 @@ I look forward to the opportunity to discuss how I can help enhance your backend
 - Unit test Testing
 - Test Driven Development (TDD)
 
+### AI/ML & LLM Development
+- LangChain & LangGraph (RAG, OpenAI/Gemini API Integration, Prompt Engineering, Chatbot Development, LLM Application Design)
+  
 ### Web architechtures
 - Homestead
 - Nginx
@@ -47,6 +51,8 @@ I look forward to the opportunity to discuss how I can help enhance your backend
 - SQL (MySQL)
 - MSSQL
 - MongoDB
+- ChromaDB (Vector DB)
+- Pinecone (Vector DB)
 
 ### Data Structures
 - Binary Trees
