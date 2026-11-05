@@ -12,7 +12,7 @@ I build **scalable, secure, and high-performance applications** that solve real 
 - **CMS & E-Commerce:** Custom WordPress and Shopify solutions.
 
 ### 🛠 Tech Stack
-- **Backend:** Laravel, Node.js, Express.js, Django, FastAPI, C#/.NET
+- **Backend:** Laravel, Node.js, Express.js, Django, FastAPI, Java/SpringBoot, C#/.NET
 - **Frontend:** React, Next.js, Vue.js, Nuxt.js, Tailwind CSS
 - **Databases:** MySQL, SQL Server, MSSQL, MongoDB, Pinecone, ChromaDB
 - **AI:** OpenAI, Gemini, LangChain, LangGraph, RAG
